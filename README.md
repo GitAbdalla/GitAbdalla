@@ -1,5 +1,5 @@
 # 💫 About Me:
- I’m currently in my graduation year @FCI<br> I’m currently learning nodejs , expressjs , DB<br>How to reach me abdalla472002@gmail.com<br><br>
+👨‍🎓I’m currently in my graduation year @FCI<br>👨‍💻I’m currently learning nodejs , expressjs , DB<br>📩How to reach me abdalla472002@gmail.com<br><br>
 
 
 ## 🌐 Socials:

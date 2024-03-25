@@ -6,6 +6,7 @@
 - 👨‍💻 I’m currently learning **Node.js, Express.js, Databases**
 
 - 📫 How to reach me: **abdalla472002@gmail.com**
+- ![](https://komarev.com/ghpvc/?username=GitAbdalla&color=yellow)
 
 <h3 align="left">Socials:</h3>
 <p align="left">

@@ -3,7 +3,7 @@
 
 - 👨‍🎓 I’m currently in my graduation year **@FCI**
 
-- 👨‍💻 I’m currently learning **Node.js, Express.js, Databases**
+- 👨‍💻 I’m currently learning **Nodejs, Expressjs, Databases**
 
 - 📫 How to reach me: **abdalla472002@gmail.com**
 - ![](https://komarev.com/ghpvc/?username=GitAbdalla&color=yellow)

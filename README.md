@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abdalla Hassan</h1>
 <h3 align="center">Computer Science Student passionate about software engineering and backend development</h3>
 
-- 👨‍🎓 I’m currently in my graduation year **@FCI**
+- 👨‍🎓 I’m currently  graduated from  **@FCI**
 
 - 👨‍💻 I’m currently learning **Nodejs, Expressjs, Databases**
 

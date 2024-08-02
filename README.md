@@ -10,7 +10,7 @@
 
 <h3 align="left">Socials:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/abdallahassan" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdallahassan" height="30" width="40" /></a>
+  <a href="[https://linkedin.com/in/abdallahassan](https://www.linkedin.com/in/abdalla-hassan-1b097a197/)" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdallahassan" height="30" width="40" /></a>
   <a href="https://www.leetcode.com/therealabdalla" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="therealabdalla" height="30" width="40" /></a>
 </p>
 

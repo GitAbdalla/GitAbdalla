@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abdalla Hassan</h1>
-<h3 align="center">Computer Science Student passionate about software engineering and backend development</h3>
+<h3 align="center">Computer Science Gradute passionate about software engineering and backend development</h3>
 
 - 👨‍🎓 I’m currently  graduated from  **@FCI**
 

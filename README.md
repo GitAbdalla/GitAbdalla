@@ -45,9 +45,9 @@
   <a href="https://www.linkedin.com/in/abdalla-hassan-1b097a197/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
-
   <a href="https://www.leetcode.com/therealabdalla" target="_blank">
-     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg/v1?message=LeetCode&logo=LeetCode&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" alt="therealabdalla" height="35"/></a>
+    <img src="https://img.shields.io/static/v1?message=LeetCode&logo=leetcode&label=&color=FFA116&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="leetcode logo"  />
+  </a>
 </div>
 
 ###

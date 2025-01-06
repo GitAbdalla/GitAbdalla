@@ -47,7 +47,7 @@
   </a>
 
   <a href="https://www.leetcode.com/therealabdalla" target="_blank">
-     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="therealabdalla" height="35"/></a>
+     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg/v1?message=LeetCode&logo=LeetCode&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" alt="therealabdalla" height="35"/></a>
 </div>
 
 ###

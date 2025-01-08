@@ -8,9 +8,13 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GitAbdalla&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-###
+## <span style="color: blue !important;">&gt;</span> Skillset
+[![My Skills](https://skillicons.dev/icons?i=git,cpp,python,javascript,typescript,php,nestjs,nodejs,express,postgres,mongodb,mysql,nextjs,react,tailwind,jest,postman,bash,&perline=12)](https://skillicons.dev)
 
-<div align="left">
+
+
+
+###
 <!--   <img src="https://skillicons.dev/icons?i=js" height="35" alt="javascript logo"  />
   <img width="12" />
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/TypeScript.svg" height="35" alt="typescript logo"  />
@@ -34,11 +38,8 @@
   <img src="https://skillicons.dev/icons?i=cpp" height="35" alt="cplusplus logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="35" alt="npm logo"  /> -->
-  <span style="color: blue !important;">&gt;</span> Skillset
-[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,git,cpp,javascript,typescript,nestjs,nodejs,express,mongodb,mysql,postman,bash,npm,&perline=12)](https://skillicons.dev)
-</div>
+ 
 
-###
 
 <div align="left">
   <a href="abdalla472002@gmail.com" target="_blank">
